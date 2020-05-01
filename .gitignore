@@ -46,6 +46,9 @@ local.properties
 # sbteclipse plugin
 .target
 
+# IDEA compiled files
+target/
+
 # Tern plugin
 .tern-project
 
